@@ -1,3 +1,5 @@
+#ejemplo
+
 CREATE OR REPLACE TABLE mapfre_google_ads_data.tablanueva
 PARTITION BY Date
 OPTIONS (
