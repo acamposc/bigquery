@@ -1,3 +1,4 @@
+# al empujarse se creará una nueva tabla en bq
 
 CREATE OR REPLACE TABLE mapfre_google_ads_data.tablanueva
 PARTITION BY Date
